@@ -1,0 +1,15 @@
+@font-face {
+    font-family: iranSans;
+    src: url("../Fonts/iranSans/IRANSans.eot") format("eot");
+    src: url("../Fonts/iranSans/IRANSans.ttf") format("ttf");
+    src: url("../Fonts/iranSans/IRANSans.woff") format("woff");
+    src: url("../Fonts/iranSans/IRANSans.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: yekan;
+    src: url("../Fonts/iranYekan/IRANYekanWebFaNum-Light.eot") format("eot");
+    src: url("../Fonts/iranYekan/IRANYekanWebFaNum-Light.ttf") format("ttf");
+    src: url("../Fonts/iranYekan/IRANYekanWebFaNum-Light.woff") format("woff");
+    src: url("../Fonts/iranYekan/IRANYekanWebFaNum-Light.woff2") format("woff2");
+}

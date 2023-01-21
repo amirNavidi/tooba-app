@@ -1,0 +1,51 @@
+@import url("./myFont.css");
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'iranSans';
+    
+  
+   
+}
+body{
+    overflow: hidden;
+}
+.faNumber{
+    font-family: "yekan";
+}
+
+.user1{
+    font-weight: bold;
+    font-size: 0.8rem;
+    margin-left: 25px;
+}
+
+
+
+
+/* drop down in csv */
+.optionContainer .option:hover,
+.optionContainer .highlight,
+.optionContainer .highlight:hover{
+  background: white;
+  color: black;
+}
+.optionContainer .option{
+    display: flex;
+}
+.search-wrapper{
+    display: flex;
+   
+}
+.search-wrapper span{
+    margin-left: 15px;
+}
+.search-wrapper span:nth-child(2){
+    margin-left: 100px;
+}
+.search-wrapper span:nth-child(3){
+    margin-left: 100px;
+}
+
